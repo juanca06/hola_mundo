@@ -1,6 +1,5 @@
 const Saludo = () => {
-    return (<h1> Hola jejjeje no toques mi codigo ehhh es mi segundo aviso eh</h1>
-        )
+    return (<h1> Este es el segundo Hola Mundo en ReactJS</h1>)
     
 };
 
